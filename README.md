@@ -17,6 +17,10 @@ A premium, high-performance Next.js application for campus admissions, featuring
   "fullName": "System Admin"
 }
 ```
+**User logins and Password**
+admin - password123
+admissionofficer@gmail.com - 123456
+manager1@gmail.com - 123456
 
 ## 🛠️ Technology Stack
 - **Framework**: Next.js 14 (App Router)
