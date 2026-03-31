@@ -9,18 +9,28 @@ A premium, high-performance Next.js application for campus admissions, featuring
 - **RBAC UI**: Sidebars and pages automatically hide/show based on roles.
 - **Atomic Allocation**: Real-time feedback on seat availability.
 
-## 🔑 Default Admin Access
+## 🔑  Admin, and Administrator and management Access
 ```json
 {
   "username": "admin",
   "password": "password123",
   "fullName": "System Admin"
-}
+},
+
+{
+  "username": "admissionofficer@gmail.com",
+  "password": "123456",
+  "fullName": "Admission Officer"
+},
+
+{
+  "username": "manager1@gmail.com",
+  "password": "123456",
+  "fullName": "Management"
+},
+
 ```
-**User logins and Password**
-admin - password123
-admissionofficer@gmail.com - 123456
-manager1@gmail.com - 123456
+
 
 ## 🛠️ Technology Stack
 - **Framework**: Next.js 14 (App Router)
